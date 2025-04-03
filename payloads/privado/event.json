@@ -1,0 +1,41 @@
+{
+    "EventType": "messages",
+    "message": {
+      "buttonOrListid": "",
+      "chatid": "558695774681@s.whatsapp.net",
+      "content": {
+        "contextInfo": {
+          "disappearingMode": {
+            "initiator": 0,
+            "trigger": 1
+          }
+        },
+        "isCanceled": false,
+        "name": "teste",
+        "description": "teste de json pv",
+        "startTime": 1743793200
+      },
+      "convertOptions": "",
+      "edited": "",
+      "fromMe": true,
+      "groupName": "Unknown",
+      "id": "558695774681:3EB098501340729B818BC5",
+      "isGroup": false,
+      "mediaType": "",
+      "messageTimestamp": 1743705383000,
+      "messageType": "EventMessage",
+      "messageid": "3EB098501340729B818BC5",
+      "owner": "558695774681",
+      "quoted": "",
+      "reaction": "",
+      "sender": "558695774681@s.whatsapp.net",
+      "senderName": "Pedro Gabriel",
+      "source": "web",
+      "status": "",
+      "text": "",
+      "type": "event",
+      "vote": ""
+    },
+    "owner": "558695774681",
+    "token": "8086a69b-175a-47b9-85be-cc1f34648e6e"
+  }

@@ -1,0 +1,17 @@
+{
+  "EventType": "chats",
+  "chat": {
+    "owner": "558695774681",
+    "wa_chatid": "558681698877@s.whatsapp.net",
+    "wa_ephemeralExpiration": 0,
+    "wa_fastid": "558695774681:558681698877",
+    "wa_lastMessageSender": "558681698877@s.whatsapp.net",
+    "wa_lastMessageTextVote": "",
+    "wa_lastMessageType": "AudioMessage",
+    "wa_lastMsgTimestamp": 1743616734000,
+    "wa_name": "Gabriel Freitas",
+    "wa_unreadCount": 1
+  },
+  "owner": "558695774681",
+  "token": "306179ce-91ba-46f9-81da-1f1f118a48bf"
+}

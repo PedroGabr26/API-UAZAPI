@@ -26,8 +26,8 @@ class Channel:
     # id: str = None
     chatid: str = None
     idmessage: str = None
-    access_token: str = 'e9e815e1-b611-4c32-af32-e1a1610f64c6'
-    id:str = 're7116c8e0e0086'
+    access_token: str = '8086a69b-175a-47b9-85be-cc1f34648e6e'
+    id:str = 'r54a3c938b7e960'
     groupid: str = None
     invitelink: str = None
 
@@ -290,6 +290,33 @@ class UazapiApi:
             return {"error":f"{response.status_code}:{response.text}/n{data}"}
         return data
     
+
+
+    @classmethod
+    def send_location(cls,number: str, name: str,adress: str, latitude: str,longitude: str):
+        url = f"{BASE_URL}/send/location"
+        headers = cls.get_headers(channel)
+        json = {
+            "number": number,
+            "name": name,
+            "address": adress,
+            "latitude": float(latitude),
+            "longitude": float(longitude),
+            "replyid": "",
+            "mentions": "",
+            "readchat": True, # marcar chat como lido
+            "delay": 1200
+        }
+        print(json)
+        response = requests.post(url,headers=headers,json=json)
+        if response.status_code == 200:
+            data = response.json()
+        else:
+            data = response.json()
+            return {"error":f"{response.status_code}:{response.text}/n{data}"}
+        return data
+
+
 
 
     @classmethod
@@ -796,7 +823,6 @@ class UazapiApi:
 
 
 
-
 channel = Channel() # instância/cria a pessoa que vai usar a classe Uazapi{
 
 uazapi = UazapiApi() # instância a classe uazapi
@@ -806,11 +832,11 @@ json = {
     "systemname":channel.systemname,
 }
 print(f'----- Rodando Teste de função -----')
-print(uazapi.create_instance(channel, json)) 
-print(uazapi.connect_instance(channel))
+# print(uazapi.create_instance(channel, json)) 
+# print(uazapi.connect_instance(channel))
 # print(uazapi.send_message(channel,'5586995774681',f'Acorda, criança!\n papai chegou\n{file.url}')) # "número de telefone ou chat id@s.whatsapp.net
 options = ["escolha uma opção",'sim','não']
-# print(uazapi.send_menu('5586998419749','list','Teste',options)) # não dá erro, mas não chega mensagem
+# print(uazapi.send_menu('5586998419749','list','Teste',options)) # funciona
 # print(uazapi.send_media(UazapiApi,channel,file,'5586995774681','teste sendmedia')) # teste concluido com sucesso, mas só com a url especificada
 # print(uazapi.find_message(channel)) # funciona, Vai pegar pela instância de Chat(chat.id_message), no projeto real
 # print(uazapi.delete_message(channel))
@@ -826,4 +852,5 @@ emoji = Emoji()
 # print(uazapi.create_group("Teste","5586995774681","5586998419749"))
 # print(uazapi.invite_link()) # funcionou
 # print(uazapi.massmessage('Olá, teste de mensagem em massa','Teste de mensagem em massa pra ser enviado pra vários contatos referente ao mês do consumidor e bla bla bla', 'teste teste teste teste teste','5586995774681','558681698877','86998419749')) 
-# print(uazapi.definewebhook())
+print(uazapi.definewebhook())
+print(uazapi.send_location('5586995774681','Ninho do urubu','Estr. dos Bandeirantes, 25997 - Vargem Grande, Rio de Janeiro - RJ, 22785-275','-22.9841','-43.5057'))

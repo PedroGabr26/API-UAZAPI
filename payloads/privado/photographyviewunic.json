@@ -1,0 +1,22 @@
+{
+    "EventType": "messages_update",
+    "event": {
+      "Chat": "558681698877@s.whatsapp.net",
+      "Sender": "558681698877:70@s.whatsapp.net",
+      "IsFromMe": false,
+      "IsGroup": false,
+      "BroadcastListOwner": "",
+      "MessageIDs": [
+        "351C529E0E43CDC3EAF4508E9A6648D9",
+        "E0F22686C401C4AA173BDCBFB51DE30C",
+        "E0F22686C401C4AA173BDCBFB51DE30C"
+      ],
+      "Timestamp": "2025-04-02T19:29:44Z",
+      "Type": "",
+      "MessageSender": ""
+    },
+    "owner": "558695774681",
+    "state": "Delivered",
+    "token": "e9e815e1-b611-4c32-af32-e1a1610f64c6",
+    "type": "ReadReceipt"
+  }

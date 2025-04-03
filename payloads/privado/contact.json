@@ -1,0 +1,15 @@
+{
+    "EventType": "chats",
+    "chat": {
+      "owner": "558695774681",
+      "wa_chatid": "558695774681@s.whatsapp.net",
+      "wa_ephemeralExpiration": 0,
+      "wa_fastid": "558695774681:558695774681",
+      "wa_lastMessageSender": "558695774681@s.whatsapp.net",
+      "wa_lastMessageTextVote": "Pai",
+      "wa_lastMessageType": "ContactMessage",
+      "wa_lastMsgTimestamp": 1743622502000
+    },
+    "owner": "558695774681",
+    "token": "e9e815e1-b611-4c32-af32-e1a1610f64c6"
+  }

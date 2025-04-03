@@ -1,0 +1,50 @@
+{
+    "EventType": "messages",
+    "message": {
+      "buttonOrListid": "",
+      "chatid": "558695774681@s.whatsapp.net",
+      "content": {
+        "URL": "https://mmg.whatsapp.net/v/t62.7118-24/11697765_656179583837489_7362281475950433877_n.enc?ccb=11-4&oh=01_Q5AaIRzl32gUEXVHVum0E8r-ioFaYSFYqW9T69ZWV7weRiI3&oe=6814F7CC&_nc_sid=5e03e0&mms3=true",
+        "mimetype": "image/jpeg",
+        "fileSHA256": "0GNG7/tkcwa4+EXL47JLZr6avSnCVmaU8+hvCwBeA+k=",
+        "fileLength": 19151,
+        "height": 624,
+        "width": 735,
+        "mediaKey": "HSIrmdvVt1J5LiPp7oLjm4K0qhSDMQDZSzNNOG1QX3E=",
+        "fileEncSHA256": "ztR8nwNrAYXRi0eBFbLZv0FEgaVMYwaxUKmq2p11cj8=",
+        "directPath": "/v/t62.7118-24/11697765_656179583837489_7362281475950433877_n.enc?ccb=11-4&oh=01_Q5AaIRzl32gUEXVHVum0E8r-ioFaYSFYqW9T69ZWV7weRiI3&oe=6814F7CC&_nc_sid=5e03e0",
+        "mediaKeyTimestamp": 1743617080,
+        "JPEGThumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEABsbGxscGx4hIR4qLSgtKj04MzM4PV1CR0JHQl2NWGdYWGdYjX2Xe3N7l33gsJycsOD/2c7Z//////////////8BGxsbGxwbHiEhHiotKC0qPTgzMzg9XUJHQkdCXY1YZ1hYZ1iNfZd7c3uXfeCwnJyw4P/Zztn////////////////CABEIAD0ASAMBIgACEQEDEQH/xAArAAEBAQEBAQAAAAAAAAAAAAAAAwIBBAYBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAPmwGtE1BNvAABSsaFOZDz2iAAarHp6My4dxrIAAAAOnHR//xAAnEAABAwMCBAcAAAAAAAAAAAABAAIRAxIhEyAiI0FSMDEyM0BCYf/aAAgBAQABPwDwwwmIRpPAkhaVTtQo1D9UabwJI2tHp4oTm4PNlBpk81BuPeTwbDxztaWYkI6RHC0oaM+RU0QMtKcaRbgGdoaTCtqNacYQ1oADRhOZVfm1Gm9okjG2Sr3HqVqPmble/uKvcRE/DB/ETPRf/8QAFBEBAAAAAAAAAAAAAAAAAAAAQP/aAAgBAgEBPwAn/8QAFBEBAAAAAAAAAAAAAAAAAAAAQP/aAAgBAwEBPwAn/9k=",
+        "scansSidecar": "Jw7BurXA5xoUIecpdnu7cyjvNdcwr2dK6PzVcsAngRG3UkmvfHk3Zg==",
+        "scanLengths": [
+          2338,
+          9473,
+          3282,
+          4058
+        ],
+        "midQualityFileSHA256": "aorTMItzn8BpRnBKy8tXnvbt8Vf3jrsflE0NDSn15GE="
+      },
+      "convertOptions": "",
+      "edited": "",
+      "fromMe": true,
+      "groupName": "Unknown",
+      "id": "558695774681:B35EA7F03345B28218B4962C1E5762D3",
+      "isGroup": false,
+      "mediaType": "image",
+      "messageTimestamp": 1743617088000,
+      "messageType": "ImageMessage",
+      "messageid": "B35EA7F03345B28218B4962C1E5762D3",
+      "owner": "558695774681",
+      "quoted": "",
+      "reaction": "",
+      "sender": "558695774681@s.whatsapp.net",
+      "senderName": "Pedro Gabriel",
+      "source": "android",
+      "status": "",
+      "text": "",
+      "type": "media",
+      "vote": ""
+    },
+    "owner": "558695774681",
+    "token": "306179ce-91ba-46f9-81da-1f1f118a48bf"
+}
