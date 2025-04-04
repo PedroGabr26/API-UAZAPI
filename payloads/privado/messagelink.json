@@ -1,0 +1,43 @@
+{
+    "EventType": "messages",
+    "message": {
+      "buttonOrListid": "",
+      "chatid": "558695774681@s.whatsapp.net",
+      "content": {
+        "text": "https://www.youtube.com/",
+        "matchedText": "https://www.youtube.com/",
+        "description": "https://www.youtube.com/",
+        "title": "www.youtube.com",
+        "previewType": 0,
+        "contextInfo": {
+          "disappearingMode": {
+            "initiator": 0,
+            "trigger": 1
+          }
+        },
+        "inviteLinkGroupTypeV2": 0
+      },
+      "convertOptions": "",
+      "edited": "",
+      "fromMe": true,
+      "groupName": "Unknown",
+      "id": "558695774681:3EB0ACF86943F1A07D0EEA",
+      "isGroup": false,
+      "mediaType": "url",
+      "messageTimestamp": 1743806752000,
+      "messageType": "ExtendedTextMessage",
+      "messageid": "3EB0ACF86943F1A07D0EEA",
+      "owner": "558695774681",
+      "quoted": "",
+      "reaction": "",
+      "sender": "558695774681@s.whatsapp.net",
+      "senderName": "Pedro Gabriel",
+      "source": "web",
+      "status": "",
+      "text": "https://www.youtube.com/",
+      "type": "media",
+      "vote": ""
+    },
+    "owner": "558695774681",
+    "token": "94b5f9a3-1b21-4ab2-a4b8-66decbd0603b"
+  }

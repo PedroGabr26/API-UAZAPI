@@ -1,0 +1,30 @@
+{
+    "EventType": "messages",
+    "message": {
+      "buttonOrListid": "",
+      "chatid": "558695774681@s.whatsapp.net",
+      "content": "oi, oi teste editado",
+      "convertOptions": "",
+      "edited": "3EB0AF1EEA76BAD5AEF814",
+      "fromMe": true,
+      "groupName": "Unknown",
+      "id": "558695774681:3EB07A3997C3FC6939E6",
+      "isGroup": false,
+      "mediaType": "",
+      "messageTimestamp": 1743787658000,
+      "messageType": "Conversation",
+      "messageid": "3EB07A3997C3FC6939E6",
+      "owner": "558695774681",
+      "quoted": "",
+      "reaction": "",
+      "sender": "558695774681@s.whatsapp.net",
+      "senderName": "Pedro Gabriel",
+      "source": "unknown",
+      "status": "",
+      "text": "",
+      "type": "text",
+      "vote": ""
+    },
+    "owner": "558695774681",
+    "token": "9fcdd404-4250-4465-8dad-dca107717e69"
+  }

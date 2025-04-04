@@ -26,8 +26,8 @@ class Channel:
     # id: str = None
     chatid: str = None
     idmessage: str = None
-    access_token: str = '8086a69b-175a-47b9-85be-cc1f34648e6e'
-    id:str = 'r54a3c938b7e960'
+    access_token: str = '94b5f9a3-1b21-4ab2-a4b8-66decbd0603b'
+    id:str = 'raaf5f9167948d9'
     groupid: str = None
     invitelink: str = None
 
@@ -773,7 +773,7 @@ class UazapiApi:
 
     def definewebhook(cls):
         url = f"{BASE_URL}/webhook"
-        wburl = "https://webhook.site/0c96601a-9a2a-4fbb-a655-8582f35ffb61"
+        wburl = "https://webhook.site/74b706e4-f024-4222-b8d5-00b472d2916f"
         headers = cls.get_headers(channel)
         json = {
             "enabled": True,
@@ -853,4 +853,4 @@ emoji = Emoji()
 # print(uazapi.invite_link()) # funcionou
 # print(uazapi.massmessage('Olá, teste de mensagem em massa','Teste de mensagem em massa pra ser enviado pra vários contatos referente ao mês do consumidor e bla bla bla', 'teste teste teste teste teste','5586995774681','558681698877','86998419749')) 
 print(uazapi.definewebhook())
-print(uazapi.send_location('5586995774681','Ninho do urubu','Estr. dos Bandeirantes, 25997 - Vargem Grande, Rio de Janeiro - RJ, 22785-275','-22.9841','-43.5057'))
+# print(uazapi.send_location('5586995774681','Ninho do urubu','Estr. dos Bandeirantes, 25997 - Vargem Grande, Rio de Janeiro - RJ, 22785-275','-22.9841','-43.5057'))
