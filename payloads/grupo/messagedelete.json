@@ -1,0 +1,18 @@
+{
+    "EventType": "messages_update",
+    "event": {
+      "Chat": "120363420297834268@g.us",
+      "IsFromMe": true,
+      "IsGroup": true,
+      "MessageIDs": [
+        "70F8184A8684F7FB06872B4C932BA22A"
+      ],
+      "Sender": "558695774681@s.whatsapp.net",
+      "Timestamp": "2025-04-05T04:00:58Z",
+      "Type": "Deleted"
+    },
+    "owner": "558695774681",
+    "state": "Deleted",
+    "token": "450ed015-e455-4997-b1d3-29c78fff1766",
+    "type": "DeletedMessage"
+  }

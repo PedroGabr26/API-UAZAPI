@@ -1,0 +1,21 @@
+{
+    "EventType": "messages",
+    "message": {
+      "chatid": "120363420297834268@g.us",
+      "content": "[Undecryptable] Não foi possível descriptografar a mensagem. Abra o WhatsApp no seu celular para visualizá-la.",
+      "fromMe": true,
+      "id": "558695774681:06DD5D0C7EDBBA94941AE949A05E141F",
+      "isGroup": true,
+      "messageTimestamp": 1743825797000,
+      "messageType": "error",
+      "messageid": "06DD5D0C7EDBBA94941AE949A05E141F",
+      "owner": "558695774681",
+      "sender": "558695774681",
+      "senderName": "Pedro Gabriel",
+      "status": "",
+      "text": "[Undecryptable] Não foi possível descriptografar a mensagem. Abra o WhatsApp no seu celular para visualizá-la.",
+      "type": "media"
+    },
+    "owner": "558695774681",
+    "token": "450ed015-e455-4997-b1d3-29c78fff1766"
+  }

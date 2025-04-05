@@ -1,0 +1,46 @@
+{
+    "EventType": "messages",
+    "message": {
+      "buttonOrListid": "",
+      "chatid": "120363420297834268@g.us",
+      "content": {
+        "messageContextInfo": {
+          "messageSecret": "rqjkiLhsBxVBavd9S8Dcz4deua4BVAiWAOeXmYMD7vU="
+        },
+        "pollCreationMessageV3": {
+          "name": "Teste",
+          "options": [
+            {
+              "optionName": "Sim"
+            },
+            {
+              "optionName": "Não"
+            }
+          ],
+          "selectableOptionsCount": 0
+        }
+      },
+      "convertOptions": "",
+      "edited": "",
+      "fromMe": true,
+      "groupName": "Teste Tsuru",
+      "id": "558695774681:F753065D451BA76F9560E03C4210BC2F",
+      "isGroup": true,
+      "mediaType": "",
+      "messageTimestamp": 1743826292000,
+      "messageType": "PollCreationMessageV3",
+      "messageid": "F753065D451BA76F9560E03C4210BC2F",
+      "owner": "558695774681",
+      "quoted": "",
+      "reaction": "",
+      "sender": "558695774681@s.whatsapp.net",
+      "senderName": "Pedro Gabriel",
+      "source": "android",
+      "status": "",
+      "text": "",
+      "type": "poll",
+      "vote": ""
+    },
+    "owner": "558695774681",
+    "token": "450ed015-e455-4997-b1d3-29c78fff1766"
+  }

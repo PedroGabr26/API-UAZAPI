@@ -1,0 +1,58 @@
+{
+    "EventType": "messages",
+    "message": {
+      "buttonOrListid": "",
+      "chatid": "558695774681@s.whatsapp.net",
+      "content": {
+        "deviceSentMessage": {
+          "destinationJID": "558695774681@s.whatsapp.net",
+          "message": {
+            "messageContextInfo": {
+              "messageAddOnDurationInSecs": 0,
+              "messageAddOnExpiryType": 1
+            },
+            "pinInChatMessage": {
+              "key": {
+                "remoteJID": "558695774681@s.whatsapp.net",
+                "fromMe": true,
+                "ID": "3EB0885631AEDF0AF8373E"
+              },
+              "type": 2,
+              "senderTimestampMS": 1743825569300
+            }
+          }
+        },
+        "messageContextInfo": {
+          "deviceListMetadata": {
+            "senderKeyHash": "rFVJ4OC9csF5mw==",
+            "senderTimestamp": 1743824969
+          },
+          "deviceListMetadataVersion": 2,
+          "messageAddOnDurationInSecs": 0,
+          "messageAddOnExpiryType": 1
+        }
+      },
+      "convertOptions": "",
+      "edited": "",
+      "fromMe": true,
+      "groupName": "Unknown",
+      "id": "558695774681:534EC12FEA697AE6B71E74020CE76CB4",
+      "isGroup": false,
+      "mediaType": "",
+      "messageTimestamp": 1743825569000,
+      "messageType": "UnknownMessageType",
+      "messageid": "534EC12FEA697AE6B71E74020CE76CB4",
+      "owner": "558695774681",
+      "quoted": "",
+      "reaction": "",
+      "sender": "558695774681@s.whatsapp.net",
+      "senderName": "Pedro Gabriel",
+      "source": "android",
+      "status": "",
+      "text": "",
+      "type": "text",
+      "vote": ""
+    },
+    "owner": "558695774681",
+    "token": "450ed015-e455-4997-b1d3-29c78fff1766"
+  }

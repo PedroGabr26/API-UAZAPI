@@ -1,0 +1,50 @@
+{
+    "EventType": "messages",
+    "message": {
+      "buttonOrListid": "",
+      "chatid": "120363420297834268@g.us",
+      "content": {
+        "URL": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f2/m232/AQMYTRtyvQ3Wrhe8WY8RcQ9c9DdD7tdUKr4jdUigGjkcYeYflV_BJcS6nhsaKEEIK7erg96vEAVBOjekMwq6iJU6GYv6vhTBHS0Tn85e1w?ccb=9-4&oh=01_Q5AaIZorcK5vdUikuJ7cq6FtUmhJZclueoYnW1_URzPt1Vus&oe=681826C9&_nc_sid=e6ed6c&mms3=true",
+        "mimetype": "image/jpeg",
+        "fileSHA256": "0GNG7/tkcwa4+EXL47JLZr6avSnCVmaU8+hvCwBeA+k=",
+        "fileLength": 19151,
+        "height": 624,
+        "width": 735,
+        "mediaKey": "bwdq8YKCWWMxL/wLtnafZk0xe2kgDEQvIlBSM8N72iY=",
+        "fileEncSHA256": "BnSttuni/Km3kwKuiBAKJh3+iXDu+vCTHkP6PsGIW+4=",
+        "directPath": "/o1/v/t62.7118-24/f2/m232/AQMYTRtyvQ3Wrhe8WY8RcQ9c9DdD7tdUKr4jdUigGjkcYeYflV_BJcS6nhsaKEEIK7erg96vEAVBOjekMwq6iJU6GYv6vhTBHS0Tn85e1w?ccb=9-4&oh=01_Q5AaIZorcK5vdUikuJ7cq6FtUmhJZclueoYnW1_URzPt1Vus&oe=681826C9&_nc_sid=e6ed6c",
+        "mediaKeyTimestamp": 1743825756,
+        "JPEGThumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEABsbGxscGx4hIR4qLSgtKj04MzM4PV1CR0JHQl2NWGdYWGdYjX2Xe3N7l33gsJycsOD/2c7Z//////////////8BGxsbGxwbHiEhHiotKC0qPTgzMzg9XUJHQkdCXY1YZ1hYZ1iNfZd7c3uXfeCwnJyw4P/Zztn////////////////CABEIAD0ASAMBIgACEQEDEQH/xAArAAEBAQEBAQAAAAAAAAAAAAAAAwIBBAYBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAPmwGtE1BNvAABSsaFOZDz2iAAarHp6My4dxrIAAAAOnHR//xAAnEAABAwMCBAcAAAAAAAAAAAABAAIRAxIhEyAiI0FSMDEyM0BCYf/aAAgBAQABPwDwwwmIRpPAkhaVTtQo1D9UabwJI2tHp4oTm4PNlBpk81BuPeTwbDxztaWYkI6RHC0oaM+RU0QMtKcaRbgGdoaTCtqNacYQ1oADRhOZVfm1Gm9okjG2Sr3HqVqPmble/uKvcRE/DB/ETPRf/8QAFBEBAAAAAAAAAAAAAAAAAAAAQP/aAAgBAgEBPwAn/8QAFBEBAAAAAAAAAAAAAAAAAAAAQP/aAAgBAwEBPwAn/9k=",
+        "scansSidecar": "RKMfQAqVSCFBZZB//p1hagl/F88WTkL+5RUPTEeti1OBLudG+V6SuA==",
+        "scanLengths": [
+          2338,
+          9473,
+          3282,
+          4058
+        ],
+        "midQualityFileSHA256": "aorTMItzn8BpRnBKy8tXnvbt8Vf3jrsflE0NDSn15GE="
+      },
+      "convertOptions": "",
+      "edited": "",
+      "fromMe": true,
+      "groupName": "Teste Tsuru",
+      "id": "558695774681:A5155C84B7B667F7B27FD00CBD12B3F7",
+      "isGroup": true,
+      "mediaType": "image",
+      "messageTimestamp": 1743825757000,
+      "messageType": "ImageMessage",
+      "messageid": "A5155C84B7B667F7B27FD00CBD12B3F7",
+      "owner": "558695774681",
+      "quoted": "",
+      "reaction": "",
+      "sender": "558695774681@s.whatsapp.net",
+      "senderName": "Pedro Gabriel",
+      "source": "android",
+      "status": "",
+      "text": "",
+      "type": "media",
+      "vote": ""
+    },
+    "owner": "558695774681",
+    "token": "450ed015-e455-4997-b1d3-29c78fff1766"
+  }

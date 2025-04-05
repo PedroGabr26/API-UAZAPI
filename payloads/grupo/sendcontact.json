@@ -1,0 +1,33 @@
+{
+    "EventType": "messages",
+    "message": {
+      "buttonOrListid": "",
+      "chatid": "120363420297834268@g.us",
+      "content": {
+        "displayName": "Pedro Gabriel",
+        "vcard": "BEGIN:VCARD\nVERSION:3.0\nN:Gabriel;Pedro;;;\nFN:Pedro Gabriel\nitem1.TEL;waid=558695193585:+55 86 9519-3585\nitem1.X-ABLabel:Celular\nEND:VCARD"
+      },
+      "convertOptions": "",
+      "edited": "",
+      "fromMe": true,
+      "groupName": "Teste Tsuru",
+      "id": "558695774681:EFA594BFE1B27D9AD52CA3E0904DE499",
+      "isGroup": true,
+      "mediaType": "vcard",
+      "messageTimestamp": 1743826154000,
+      "messageType": "ContactMessage",
+      "messageid": "EFA594BFE1B27D9AD52CA3E0904DE499",
+      "owner": "558695774681",
+      "quoted": "",
+      "reaction": "",
+      "sender": "558695774681@s.whatsapp.net",
+      "senderName": "Pedro Gabriel",
+      "source": "android",
+      "status": "",
+      "text": "Pedro Gabriel",
+      "type": "media",
+      "vote": ""
+    },
+    "owner": "558695774681",
+    "token": "450ed015-e455-4997-b1d3-29c78fff1766"
+  }

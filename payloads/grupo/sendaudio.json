@@ -1,0 +1,41 @@
+{
+    "EventType": "messages",
+    "message": {
+      "buttonOrListid": "",
+      "chatid": "120363420297834268@g.us",
+      "content": {
+        "URL": "https://mmg.whatsapp.net/v/t62.7114-24/11824449_1196469325204820_207247940331009497_n.enc?ccb=11-4&oh=01_Q5AaIdsRTl6pYlVTKEsvAz5cLnBl7ZQxeFy1llZl7Nd30Gb_&oe=68180AE9&_nc_sid=5e03e0&mms3=true",
+        "mimetype": "audio/mp4",
+        "fileSHA256": "H1sC+Pf305R15XeFhP+4tFNWg1bgjtT5YLCmYUiQcuo=",
+        "fileLength": 2980937,
+        "seconds": 177,
+        "PTT": false,
+        "mediaKey": "KerbWTf8TWGZ/vIZncpc9/CgnLTmJV2sDjkIfKS1LoI=",
+        "fileEncSHA256": "9r1cONhNdms0gDb25N/MHkcocrzMt6F6riksp5DXIEY=",
+        "directPath": "/v/t62.7114-24/11824449_1196469325204820_207247940331009497_n.enc?ccb=11-4&oh=01_Q5AaIdsRTl6pYlVTKEsvAz5cLnBl7ZQxeFy1llZl7Nd30Gb_&oe=68180AE9&_nc_sid=5e03e0",
+        "mediaKeyTimestamp": 1743806112
+      },
+      "convertOptions": "",
+      "edited": "",
+      "fromMe": true,
+      "groupName": "Teste Tsuru",
+      "id": "558695774681:66BF9F0A0BDE9D4F4B2F10486D3DC75D",
+      "isGroup": true,
+      "mediaType": "audio",
+      "messageTimestamp": 1743826262000,
+      "messageType": "AudioMessage",
+      "messageid": "66BF9F0A0BDE9D4F4B2F10486D3DC75D",
+      "owner": "558695774681",
+      "quoted": "",
+      "reaction": "",
+      "sender": "558695774681@s.whatsapp.net",
+      "senderName": "Pedro Gabriel",
+      "source": "android",
+      "status": "",
+      "text": "",
+      "type": "media",
+      "vote": ""
+    },
+    "owner": "558695774681",
+    "token": "450ed015-e455-4997-b1d3-29c78fff1766"
+  }

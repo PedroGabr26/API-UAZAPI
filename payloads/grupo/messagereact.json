@@ -1,0 +1,38 @@
+{
+    "EventType": "messages",
+    "message": {
+      "buttonOrListid": "",
+      "chatid": "120363420297834268@g.us",
+      "content": {
+        "key": {
+          "remoteJID": "120363420297834268@g.us",
+          "fromMe": true,
+          "ID": "70F8184A8684F7FB06872B4C932BA22A"
+        },
+        "text": "❤️",
+        "senderTimestampMS": 1743825455684
+      },
+      "convertOptions": "",
+      "edited": "",
+      "fromMe": true,
+      "groupName": "Teste Tsuru",
+      "id": "558695774681:981EFB743A9F1164A3C6740C87AAA63E",
+      "isGroup": true,
+      "mediaType": "",
+      "messageTimestamp": 1743825455000,
+      "messageType": "ReactionMessage",
+      "messageid": "981EFB743A9F1164A3C6740C87AAA63E",
+      "owner": "558695774681",
+      "quoted": "",
+      "reaction": "70F8184A8684F7FB06872B4C932BA22A",
+      "sender": "558695774681@s.whatsapp.net",
+      "senderName": "Pedro Gabriel",
+      "source": "android",
+      "status": "",
+      "text": "❤️",
+      "type": "reaction",
+      "vote": ""
+    },
+    "owner": "558695774681",
+    "token": "450ed015-e455-4997-b1d3-29c78fff1766"
+  }

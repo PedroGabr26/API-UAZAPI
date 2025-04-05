@@ -26,8 +26,8 @@ class Channel:
     # id: str = None
     chatid: str = None
     idmessage: str = None
-    access_token: str = '94b5f9a3-1b21-4ab2-a4b8-66decbd0603b'
-    id:str = 'raaf5f9167948d9'
+    access_token: str = '450ed015-e455-4997-b1d3-29c78fff1766'
+    id:str = 'r78c737f6c4c762'
     groupid: str = None
     invitelink: str = None
 
@@ -773,7 +773,7 @@ class UazapiApi:
 
     def definewebhook(cls):
         url = f"{BASE_URL}/webhook"
-        wburl = "https://webhook.site/74b706e4-f024-4222-b8d5-00b472d2916f"
+        wburl = "https://webhook.site/e532f4ef-77c8-4c16-9133-8262e8382794"
         headers = cls.get_headers(channel)
         json = {
             "enabled": True,
