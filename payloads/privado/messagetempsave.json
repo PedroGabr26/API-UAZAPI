@@ -1,0 +1,43 @@
+{
+    "EventType": "messages",
+    "message": {
+      "buttonOrListid": "",
+      "chatid": "558695774681@s.whatsapp.net",
+      "content": {
+        "text": "Mensagem em modo temporário",
+        "previewType": 0,
+        "contextInfo": {
+          "expiration": 86400,
+          "ephemeralSettingTimestamp": 1744045509,
+          "disappearingMode": {
+            "initiator": 0,
+            "trigger": 1,
+            "initiatedByMe": true
+          }
+        },
+        "inviteLinkGroupTypeV2": 0
+      },
+      "convertOptions": "",
+      "edited": "",
+      "fromMe": true,
+      "groupName": "Unknown",
+      "id": "558695774681:9934ECD7D79D4C029D5FD7E329C8F293",
+      "isGroup": false,
+      "mediaType": "",
+      "messageTimestamp": 1744045524000,
+      "messageType": "ExtendedTextMessage",
+      "messageid": "9934ECD7D79D4C029D5FD7E329C8F293",
+      "owner": "558695774681",
+      "quoted": "",
+      "reaction": "",
+      "sender": "558695774681@s.whatsapp.net",
+      "senderName": "Pedro Gabriel",
+      "source": "android",
+      "status": "",
+      "text": "Mensagem em modo temporário",
+      "type": "text",
+      "vote": ""
+    },
+    "owner": "558695774681",
+    "token": "5d734ded-5623-4cff-997f-bfda85754a27"
+  }

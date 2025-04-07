@@ -1,0 +1,42 @@
+{
+    "EventType": "messages",
+    "message": {
+      "buttonOrListid": "",
+      "chatid": "120363420297834268@g.us",
+      "content": {
+        "text": "Mensagem em modo temporário",
+        "previewType": 0,
+        "contextInfo": {
+          "expiration": 86400,
+          "disappearingMode": {
+            "initiator": 0,
+            "trigger": 1,
+            "initiatedByMe": true
+          }
+        },
+        "inviteLinkGroupTypeV2": 0
+      },
+      "convertOptions": "",
+      "edited": "",
+      "fromMe": true,
+      "groupName": "Teste Tsuru",
+      "id": "558695774681:D53A2CE4B8CA7E8EDEB8066C4473C0E2",
+      "isGroup": true,
+      "mediaType": "",
+      "messageTimestamp": 1744044782000,
+      "messageType": "ExtendedTextMessage",
+      "messageid": "D53A2CE4B8CA7E8EDEB8066C4473C0E2",
+      "owner": "558695774681",
+      "quoted": "",
+      "reaction": "",
+      "sender": "558695774681@s.whatsapp.net",
+      "senderName": "Pedro Gabriel",
+      "source": "android",
+      "status": "",
+      "text": "Mensagem em modo temporário",
+      "type": "text",
+      "vote": ""
+    },
+    "owner": "558695774681",
+    "token": "5d734ded-5623-4cff-997f-bfda85754a27"
+  }

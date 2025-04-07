@@ -26,8 +26,8 @@ class Channel:
     # id: str = None
     chatid: str = None
     idmessage: str = None
-    access_token: str = '450ed015-e455-4997-b1d3-29c78fff1766'
-    id:str = 'r78c737f6c4c762'
+    access_token: str = '5d734ded-5623-4cff-997f-bfda85754a27'
+    id:str = 'rfd2a00ab2c3216'
     groupid: str = None
     invitelink: str = None
 
@@ -104,6 +104,19 @@ class UazapiApi:
         return data
     
 
+    @classmethod    
+    def instance_status(cls):
+        url = f"{BASE_URL}/instance/status"
+        headers = cls.get_headers(channel)
+        json = {}
+        response = requests.get(url,headers=headers,json=json)
+        if response.status_code == 200:
+            data = response.json()
+        else:
+            return {'error':f"Erro {response.status_code}: {response.text}"}
+        return data
+
+
 
     @classmethod
     def disconnect_instance(cls):
@@ -117,6 +130,20 @@ class UazapiApi:
             return {'error':f"Erro {response.status_code}: {response.text}"}
         return data
 
+
+    
+    @classmethod
+    def delete_instance(cls):
+        url = f"{BASE_URL}/instance"
+        headers = cls.get_headers(channel)
+        json = {}
+        response = requests.delete(url,headers=headers,json=json)
+        if response.status_code == 200:
+            data = response.json()
+        else:
+            data = response.json()
+            return {'error':f"Erro {response.status_code}: {response.text}\n{data}"}
+        return data
 
 
 
@@ -562,8 +589,6 @@ class UazapiApi:
             data = response.json()
             return {f"{response.status_code}:{response.text}/n{data}"}
         return data
-
-# ------------------------------------ FALTA TESTAR ------------------------------------------
 
     @classmethod
     def exit_group(cls):
